@@ -3,12 +3,12 @@ package com.jenkin.cicd;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class JenkinFirst 
+public class JenkinThirdTest 
 {
-	@Test(groups = "Smoke")
+	@Test(groups = "Regression")
 	public void method1()
 	{
-		System.out.println("Hello!");
-		Reporter.log("Hi!");
+		System.out.println("Hello!!!");
+		Reporter.log("Hi!!!");
 	}
 }
