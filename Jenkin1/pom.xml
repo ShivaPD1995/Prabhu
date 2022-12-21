@@ -84,7 +84,7 @@
 				<version>3.0.0-M7</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testngActi.xml</suiteXmlFile>
+						<suiteXmlFile>testngSanity.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
@@ -103,7 +103,7 @@
 				<version>3.0.0-M7</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testngActi.xml</suiteXmlFile>
+						<suiteXmlFile>testngRegression.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
