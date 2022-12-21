@@ -8,7 +8,7 @@ public class JenkinFirstTest
 	@Test(groups = "Smoke")
 	public void method1()
 	{
-		System.out.println("Hello!");
-		Reporter.log("Hi!");
+		System.out.println("Hello1");
+		Reporter.log("Hi1");
 	}
 }
