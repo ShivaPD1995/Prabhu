@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class JenkinFirst 
 {
-
+//192.168.0.179
 	@Test(groups = "Smoke")
 	public void method1()
 	{
