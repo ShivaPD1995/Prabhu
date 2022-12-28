@@ -5,6 +5,7 @@ public class Class1 {
 	public static void main(String[] args)
 	{
 		//new comment
+		//second comment
 		int no=548795; int sum=0;
 		while(no!=0)
 		{
